@@ -32,7 +32,7 @@ function generateCards(int $numberOfCards) : array {
                     default: break;
                 }
             }
-            shuffle($deck);
+
         }
         return $deck;
     }
@@ -42,6 +42,6 @@ function generateCards(int $numberOfCards) : array {
 
 }
 
-function distribution($deck){
+function distribution(){
 
 }

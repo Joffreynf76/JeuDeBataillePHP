@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2143fcc2-6bcb-41ca-a785-97a8b213fe81" name="JeuBataillePHP" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\JeuBataille" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
